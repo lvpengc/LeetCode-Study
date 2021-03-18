@@ -1,7 +1,5 @@
-[![GitHub stars](https://img.shields.io/github/stars/yezihack/algo?style=flat-square)](https://github.com/yezihack/algo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yezihack/algo)](https://github.com/yezihack/algo/network)
 
-**脑图分享,之前失效的URL, 请查看这个:[脑图笔记](https://mubu.com/doc/2ZN7M-lA91C),因手贱被我重置啦,抱歉.**
+[脑图笔记](https://mubu.com/doc/2ZN7M-lA91C)
 
 # 学习算法,终生学习.
 > 算法本质是使程序片段执行得到一种最优最快的方法,
